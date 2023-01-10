@@ -29,4 +29,4 @@ These days, I've been wanting to try bush craft and bumboo craft.
 
 So...
 
-Hope you enjoy my posts here!
+Hope you enjoy [my posts here](/blog)!
