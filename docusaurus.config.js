@@ -48,10 +48,11 @@ const config = {
       navbar: {
         title: 'ymdarake',
         logo: {
-          alt: 'ymdarake Logo',
-          src: 'img/logo.svg',
+          alt: 'ymdarake\'s icon',
+          src: 'img/logo.png',
         },
         items: [
+          {to: '/', label: 'Home', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/blog/tags', label: 'Tags', position: 'left'},
         ],

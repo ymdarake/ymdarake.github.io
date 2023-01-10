@@ -23,6 +23,6 @@ title: Now Archive
 
 and more...
 
-_Last updated 10th, Jan, 2023_
+_Last updated 6th, March, 2022_
 
 This page is inspired by the <a href="https://nownownow.com/about" target="_blank" rel="noindex nofollow noopener">Now page movement</a>.

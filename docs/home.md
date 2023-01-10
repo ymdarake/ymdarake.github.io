@@ -14,7 +14,7 @@ I've been working as a software engineer for about 8 years.
 
 Have built web services, enterprise applications and like so.
 
-Futher information is on Now page.
+Futher information is on [Now page](./now).
 
 ### 2. Farming
 I'm interested in farming, and have done 'tiny' farming in my backyard.
