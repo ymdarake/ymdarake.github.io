@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkymdarake_github_io=self.webpackChunkymdarake_github_io||[]).push([[535],{5641:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog Post with Docusaurus","permalink":"/blog/first-docusaurus-blog-post"}]}')}}]);
