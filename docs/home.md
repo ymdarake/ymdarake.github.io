@@ -22,8 +22,11 @@ I'm interested in farming, and have done 'tiny' farming in my backyard.
 These days, I've been wanting to try bush craft and bumboo craft.
 
 ## Where I have been
-Mostly Japan
-New Zealand
-hoping to live in France after COVID stuffs
+- Mostly Japan
+- New Zealand
+- hoping to live in France after COVID stuffs
+
+
 So...
+
 Hope you enjoy my posts here!
