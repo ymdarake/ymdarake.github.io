@@ -1,6 +1,5 @@
 ---
-sidebar_position: 2
-slug: now
+sidebar_position: 1
 title: Now
 ---
 

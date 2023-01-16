@@ -61,21 +61,29 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'SNS',
+            title: 'Internal Links',
             items: [
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/ymdarake',
+                label: 'Now',
+                to: '/now',
               },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
               {
                 label: 'Blog',
                 to: '/blog',
               },
+              {
+                label: 'Tags',
+                to: '/blog/tags',
+              },
+              {
+                label: 'Reading List',
+                to: '/reading-list',
+              },
+            ]
+          },
+          {
+            title: 'External Links',
+            items: [
               {
                 label: 'GitHub',
                 href: 'https://github.com/ymdarake',
