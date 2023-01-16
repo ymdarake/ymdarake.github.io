@@ -2,18 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymdarake.github.io/blog</id>
     <title>ymdarake's website Blog</title>
-    <updated>2022-01-10T00:00:00.000Z</updated>
+    <updated>2022-01-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ymdarake.github.io/blog"/>
     <subtitle>ymdarake's website Blog</subtitle>
     <icon>https://ymdarake.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[First Blog Post with Docusaurus]]></title>
-        <id>first-docusaurus-blog-post</id>
-        <link href="https://ymdarake.github.io/blog/first-docusaurus-blog-post"/>
+        <title type="html"><![CDATA[Reading Fundamentals of Software Architecture]]></title>
+        <id>reading-fundamentals-of-software-architecture</id>
+        <link href="https://ymdarake.github.io/blog/reading-fundamentals-of-software-architecture"/>
+        <updated>2022-01-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Notes]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="notes">Notes<a class="hash-link" href="#notes" title="Direct link to heading">​</a></h2><p>Reading <a href="https://www.oreilly.co.jp/books/9784873119823/" target="_blank" rel="noopener noreferrer">Fundamentals of Software Architecture</a> by Mark Richards, Neal Ford, 2020, O'REILLY.</p><p>I'm writing down some keywords below...</p><ul><li><strong>Architecture Decision Records</strong></li><li>Ambulance pattern</li><li>Outbreak Cache</li><li>Dividing Data Stores<ul><li>Better access control by user types</li><li>Better availability</li></ul></li><li>Risk Storming<ul><li>Make Matrix<ul><li>Availability</li><li>Elasticity</li><li>Security</li></ul></li></ul></li></ul><p>Context:</p><p>I've been in a project which is based on Microsevice Architecture and Event Driven Architecture. (with k8s and Kafka)</p>]]></content>
+        <author>
+            <name>ymdarake</name>
+            <uri>https://github.com/ymdarake</uri>
+        </author>
+        <category label="software-architecture" term="software-architecture"/>
+        <category label="reading-notes" term="reading-notes"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replacing website with Docusaurus]]></title>
+        <id>replacing-website-with-docusaurus</id>
+        <link href="https://ymdarake.github.io/blog/replacing-website-with-docusaurus"/>
         <updated>2022-01-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is the first blog post with Docusaurus.]]></summary>
-        <content type="html"><![CDATA[<p>This is the first blog post with Docusaurus.</p><p>Here comes the truncated text.</p>]]></content>
+        <summary type="html"><![CDATA[Hello from Docusaurus]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hello-from-docusaurus">Hello from Docusaurus<a class="hash-link" href="#hello-from-docusaurus" title="Direct link to heading">​</a></h2><p>This is the first blog post with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>. (ver <code>2.2.0</code>)</p><p>It's quite easy to write document, posts and etc with Docusaurus, so I decided to use it also for my own website.</p><p><em>(If you're thinking of writing UMLs with PlantUML in Docusaurus, you should know Docusaurus, as of now, uses PlantUML's public API to render UML images.)</em></p><p>I like how intuitive it is to organize markdown (and other) files to build a website with it.</p><p>Previously I used <a href="https://www.getzola.org/" target="_blank" rel="noopener noreferrer">zola</a>, which is not so bad but a bit awkward to customize and build...</p><p>But now I'm in a positive mood to post my reading notes or misc thoughts here.</p>]]></content>
         <author>
             <name>ymdarake</name>
             <uri>https://github.com/ymdarake</uri>

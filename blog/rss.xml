@@ -4,17 +4,27 @@
         <title>ymdarake's website Blog</title>
         <link>https://ymdarake.github.io/blog</link>
         <description>ymdarake's website Blog</description>
-        <lastBuildDate>Mon, 10 Jan 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>jp</language>
         <item>
-            <title><![CDATA[First Blog Post with Docusaurus]]></title>
-            <link>https://ymdarake.github.io/blog/first-docusaurus-blog-post</link>
-            <guid>first-docusaurus-blog-post</guid>
+            <title><![CDATA[Reading Fundamentals of Software Architecture]]></title>
+            <link>https://ymdarake.github.io/blog/reading-fundamentals-of-software-architecture</link>
+            <guid>reading-fundamentals-of-software-architecture</guid>
+            <pubDate>Sun, 16 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notes]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="notes">Notes<a class="hash-link" href="#notes" title="Direct link to heading">​</a></h2><p>Reading <a href="https://www.oreilly.co.jp/books/9784873119823/" target="_blank" rel="noopener noreferrer">Fundamentals of Software Architecture</a> by Mark Richards, Neal Ford, 2020, O'REILLY.</p><p>I'm writing down some keywords below...</p><ul><li><strong>Architecture Decision Records</strong></li><li>Ambulance pattern</li><li>Outbreak Cache</li><li>Dividing Data Stores<ul><li>Better access control by user types</li><li>Better availability</li></ul></li><li>Risk Storming<ul><li>Make Matrix<ul><li>Availability</li><li>Elasticity</li><li>Security</li></ul></li></ul></li></ul><p>Context:</p><p>I've been in a project which is based on Microsevice Architecture and Event Driven Architecture. (with k8s and Kafka)</p>]]></content:encoded>
+            <category>software-architecture</category>
+            <category>reading-notes</category>
+        </item>
+        <item>
+            <title><![CDATA[Replacing website with Docusaurus]]></title>
+            <link>https://ymdarake.github.io/blog/replacing-website-with-docusaurus</link>
+            <guid>replacing-website-with-docusaurus</guid>
             <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is the first blog post with Docusaurus.]]></description>
-            <content:encoded><![CDATA[<p>This is the first blog post with Docusaurus.</p><p>Here comes the truncated text.</p>]]></content:encoded>
+            <description><![CDATA[Hello from Docusaurus]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hello-from-docusaurus">Hello from Docusaurus<a class="hash-link" href="#hello-from-docusaurus" title="Direct link to heading">​</a></h2><p>This is the first blog post with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>. (ver <code>2.2.0</code>)</p><p>It's quite easy to write document, posts and etc with Docusaurus, so I decided to use it also for my own website.</p><p><em>(If you're thinking of writing UMLs with PlantUML in Docusaurus, you should know Docusaurus, as of now, uses PlantUML's public API to render UML images.)</em></p><p>I like how intuitive it is to organize markdown (and other) files to build a website with it.</p><p>Previously I used <a href="https://www.getzola.org/" target="_blank" rel="noopener noreferrer">zola</a>, which is not so bad but a bit awkward to customize and build...</p><p>But now I'm in a positive mood to post my reading notes or misc thoughts here.</p>]]></content:encoded>
             <category>hello</category>
             <category>docusaurus</category>
         </item>
