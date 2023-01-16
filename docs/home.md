@@ -24,7 +24,7 @@ These days, I've been wanting to try bush craft and bumboo craft.
 ## Where I have been
 - Mostly Japan
 - New Zealand
-- hoping to live in France after COVID stuffs
+- France for a few weeks, but interested in moving my base there one day
 
 
 So...
