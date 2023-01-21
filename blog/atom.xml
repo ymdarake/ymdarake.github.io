@@ -18,6 +18,7 @@
             <name>ymdarake</name>
             <uri>https://github.com/ymdarake</uri>
         </author>
+        <category label="javascript" term="javascript"/>
         <category label="encoding" term="encoding"/>
         <category label="unicode" term="unicode"/>
         <category label="emoji" term="emoji"/>
