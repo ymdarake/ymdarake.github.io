@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkymdarake_github_io=self.webpackChunkymdarake_github_io||[]).push([[5344],{7355:a=>{a.exports=JSON.parse('{"label":"variation-selector","permalink":"/blog/tags/variation-selector","allTagsPath":"/blog/tags","count":1}')}}]);

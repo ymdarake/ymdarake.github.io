@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkymdarake_github_io=self.webpackChunkymdarake_github_io||[]).push([[3947],{6017:a=>{a.exports=JSON.parse('{"label":"surrogates","permalink":"/blog/tags/surrogates","allTagsPath":"/blog/tags","count":1}')}}]);

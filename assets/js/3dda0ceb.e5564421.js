@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkymdarake_github_io=self.webpackChunkymdarake_github_io||[]).push([[1670],{7307:a=>{a.exports=JSON.parse('{"label":"utf-16","permalink":"/blog/tags/utf-16","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkymdarake_github_io=self.webpackChunkymdarake_github_io||[]).push([[7956],{3329:a=>{a.exports=JSON.parse('{"label":"emoji","permalink":"/blog/tags/emoji","allTagsPath":"/blog/tags","count":1}')}}]);
