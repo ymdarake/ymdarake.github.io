@@ -7,7 +7,7 @@
         <lastBuildDate>Sat, 21 Jan 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <language>jp</language>
+        <language>en</language>
         <item>
             <title><![CDATA[Demystifying Encoding and Length of String]]></title>
             <link>https://ymdarake.github.io/blog/demystifying-encoding-and-length-of-string</link>
