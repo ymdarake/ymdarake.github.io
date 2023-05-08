@@ -16,7 +16,7 @@ Have built web services, enterprise applications and like so.
 
 Futher information is on [Now page](./now).
 
-### 2. Farming
+### 2. Growing vegetables
 I'm interested in farming, and have done 'tiny' farming in my backyard.
 
 These days, I've been wanting to try bush craft and bumboo craft.
