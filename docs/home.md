@@ -19,8 +19,6 @@ Futher information is on [Now page](./now).
 ### 2. Growing vegetables
 I'm interested in farming, and have done 'tiny' farming in my backyard.
 
-These days, I've been wanting to try bush craft and bumboo craft.
-
 ## Where I have been in/to
 - Mostly Japan
 - New Zealand
