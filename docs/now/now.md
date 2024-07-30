@@ -6,11 +6,12 @@ title: Now
 * Working as a freelancer
   * Built a mobile app with Flutter/Android
   * Built micro services in Golang
-  * Some random React stuffs
-  * feel free to contact me @ [GitHub](https://github.com/ymdarake/website/issues/new)
-
+  * Some random Vue and React stuffs
 
 and more...
+
+Feel free to contact me @ [GitHub](https://github.com/ymdarake/website/issues/new)
+
 
 _Last updated 30th, July, 2024_
 
