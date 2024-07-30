@@ -5,7 +5,7 @@ title: Reading List
 author: ymdarake
 ---
 
-_since 2023_
+_temporarily suspended since 2023_
 
 ### Main
 - Fundamentals of Software Architecture
