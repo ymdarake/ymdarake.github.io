@@ -4,8 +4,9 @@ title: Now
 ---
 
 * Working as a freelancer
-  * Built a mobile app with Flutter/Android
-  * Built micro services in Golang
+  * Mobile app with Flutter/Android
+  * Microservices in Golang
+  * Web crawlers
   * Some random Vue and React stuffs
 
 and more...
